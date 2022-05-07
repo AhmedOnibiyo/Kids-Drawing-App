@@ -21,8 +21,8 @@
             android:id="@+id/iv_background"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@drawable/image_eiffel"
-            android:scaleType="centerCrop" />
+            android:scaleType="centerCrop"
+            tools:background="@drawable/image_eiffel" />
 
         <com.ahmedonibiyo.kidsdrawingapp.DrawingView
             android:id="@+id/drawing_view"
